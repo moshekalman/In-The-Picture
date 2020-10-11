@@ -1,0 +1,38 @@
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+}
+
+button{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+il{
+    margin: 0 auto;
+}
+.answer{
+    width: 300px;
+    height: 50px;
+    cursor: pointer;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.game{
+    margin: 0 auto;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.hide{
+    display: none;
+}
